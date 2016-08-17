@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "B57546FCE5A1474EE82AD48A8400984CEDFBCEE4",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "B67A5D48281FF88F5C359B8253EBEA7844597731" : 9223372036854775807,
+    "B57546FCE5A1474EE82AD48A8400984CEDFBCEE4" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "AF08C480-B9BA-4EFA-BF2E-94D036ACB1C8",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "B67A5D48281FF88F5C359B8253EBEA7844597731" : "",
+    "B57546FCE5A1474EE82AD48A8400984CEDFBCEE4" : "git-and-github-practice-two\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "github-lab-2",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "github-lab-2\/github-lab-2.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/Geniken\/git-and-github-practice-two.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "B57546FCE5A1474EE82AD48A8400984CEDFBCEE4"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/Geniken\/trail-blaise.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "B67A5D48281FF88F5C359B8253EBEA7844597731"
+    }
+  ]
+}
